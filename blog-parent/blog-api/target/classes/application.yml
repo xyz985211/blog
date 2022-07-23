@@ -1,0 +1,31 @@
+server:
+  port: 8888
+spring:   #配置数据库
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/blog?serverTimezone=UTC&characterEncoding=utf-8
+    username: root
+    password: 12345
+  redis:
+    host: 106.14.163.4
+    port: 6379
+    password: 12345
+    connect-timeout: 15000
+  servlet:
+    multipart:
+      max-request-size: 20MB  #上传文件总的最大值
+      max-file-size: 2MB  #单个文件的最大值
+
+qiniu:
+  accessKey: G0ZL4fS-AU-oshzB4DGF8ZU7wwWHiHa9d2FjUnYI
+  accessSecretKey: LB5yYbvhaO5f9YDALF7gFpQ5BGY0KxPD24i5DbTm
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      table-prefix: ms_   #表名的前缀
+  mapper-locations: classpath:mapper/**.*
+
+

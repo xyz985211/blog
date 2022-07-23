@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85fda5c6-473e-458d-9b99-fcd4deeac648" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="GeneratorMapper" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=GB2312" />
+  </component>
+  <component name="ProjectId" id="23wZfeXJdsUV9LGnemOzL4fLSQ5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.14124292" />
+    <property name="service.view.auto.scroll.from.source" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kou.blog.admin.service.impl" />
+      <recent name="com.kou.blog.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java\Blog\blog-parent\blog-admin\src\main\resources\mapper" />
+      <recent name="F:\Java\Blog\blog-parent\blog-admin\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Java\Blog\blog-parent\blog-api\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="AdminApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kou.blog.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kou.blog.admin.AdminApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kou.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kou.blog.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AdminApp" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.AdminApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85fda5c6-473e-458d-9b99-fcd4deeac648" name="Changes" comment="" />
+      <created>1642647214903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642647214903</updated>
+      <workItem from="1642647216031" duration="726000" />
+      <workItem from="1642647958971" duration="2131000" />
+      <workItem from="1642688600428" duration="198000" />
+      <workItem from="1642688809120" duration="357000" />
+      <workItem from="1642768572892" duration="263000" />
+      <workItem from="1642768879826" duration="2202000" />
+      <workItem from="1642813539677" duration="10996000" />
+      <workItem from="1642994099507" duration="7000" />
+      <workItem from="1644283841230" duration="15685000" />
+      <workItem from="1644309529390" duration="1253000" />
+      <workItem from="1644310843574" duration="991000" />
+      <workItem from="1644311853423" duration="70000" />
+      <workItem from="1644312014601" duration="113000" />
+      <workItem from="1644315220917" duration="1325000" />
+      <workItem from="1644454690887" duration="11260000" />
+      <workItem from="1644560859640" duration="6767000" />
+      <workItem from="1644585712588" duration="3571000" />
+      <workItem from="1644590188985" duration="95000" />
+      <workItem from="1644805921484" duration="22600000" />
+      <workItem from="1644888020736" duration="6208000" />
+      <workItem from="1644937393150" duration="233000" />
+      <workItem from="1644971516237" duration="3234000" />
+      <workItem from="1644978443136" duration="504000" />
+      <workItem from="1645023365537" duration="32000" />
+      <workItem from="1645063366622" duration="14016000" />
+      <workItem from="1645147890307" duration="8133000" />
+      <workItem from="1645233295544" duration="29352000" />
+      <workItem from="1645320393210" duration="3449000" />
+      <workItem from="1645325187377" duration="9114000" />
+      <workItem from="1645401572416" duration="36000" />
+      <workItem from="1645774852549" duration="1244000" />
+      <workItem from="1649751992956" duration="2162000" />
+      <workItem from="1649755544181" duration="67000" />
+      <workItem from="1649758387516" duration="113000" />
+      <workItem from="1649760505951" duration="33000" />
+      <workItem from="1649814142691" duration="886000" />
+      <workItem from="1649829252644" duration="3696000" />
+      <workItem from="1649921284648" duration="130000" />
+      <workItem from="1650337955637" duration="702000" />
+      <workItem from="1650451257184" duration="42000" />
+      <workItem from="1651972350887" duration="2178000" />
+      <workItem from="1651994954770" duration="611000" />
+      <workItem from="1652102234856" duration="874000" />
+      <workItem from="1652705546891" duration="1725000" />
+      <workItem from="1652770336430" duration="47000" />
+      <workItem from="1653745367403" duration="925000" />
+      <workItem from="1653786489832" duration="1667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
